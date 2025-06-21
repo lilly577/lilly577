@@ -37,7 +37,7 @@ I'm a passionate full stack software engineer specializing in crafting responsiv
 - 📧 Email: **lilian.irusa@example.com**  
 - 🌐 Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com) *(optional placeholder)*  
 - 💼 LinkedIn: [linkedin.com/in/lilian-irusa](https://linkedin.com/in/lilian-irusa)  
-- 🐙 GitHub: [github.com/lilianirusa](https://github.com/lilianirusa)  
+- 🐙 GitHub: [github.com/lilianirusa](https://github.com/lilly577/lilianirusa)  
 - 🐦 Twitter: [twitter.com/lilian_irusa](https://twitter.com/lilian_irusa)  
 - 💬 WhatsApp: [+254 757736697](https://wa.me/254757736697)
 
