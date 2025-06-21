@@ -39,7 +39,7 @@ I'm a passionate full stack software engineer specializing in crafting responsiv
 - 💼 LinkedIn: [linkedin.com/in/lilian-irusa](https://linkedin.com/in/lilian-irusa)  
 - 🐙 GitHub: [github.com/lilianirusa](https://github.com/lilianirusa)  
 - 🐦 Twitter: [twitter.com/lilian_irusa](https://twitter.com/lilian_irusa)  
-- 💬 WhatsApp: [+254 712 345678](https://wa.me/254712345678)
+- 💬 WhatsApp: [+254 757736697](https://wa.me/254757736697)
 
 ---
 
